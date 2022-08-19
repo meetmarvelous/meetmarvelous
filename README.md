@@ -14,7 +14,7 @@
 
 <!-- Follow Twitter -->
 
-<p align="left"> <a href="https://twitter.com/meetmarvelous" target="blank"><img src="https://img.shields.io/twitter/follow/meetmarvelous?logo=twitter&style=for-the-badge" alt="meetmarvelous" /></a> </p>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=meetmarvelous" target="blank"><img src="https://img.shields.io/twitter/follow/meetmarvelous?logo=twitter&style=for-the-badge" alt="meetmarvelous" /></a> </p>
 
 <!-- Image GiF -->
 
@@ -64,8 +64,6 @@
   <a href="https://twitter.com/MeetMarvelous" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-</p>
-<p align="center">
   <a href="#" target="_blank">
     <img alt="" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" >
   </a> 
