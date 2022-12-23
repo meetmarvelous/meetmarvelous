@@ -14,7 +14,7 @@
 
 <!-- Follow Twitter -->
 
-<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=meetmarvelous" target="blank"><img src="https://img.shields.io/twitter/follow/meetmarvelous?logo=twitter&style=for-the-badge" alt="meetmarvelous" /></a> </p>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=marvelwebdev" target="blank"><img src="https://img.shields.io/twitter/follow/marvelwebdev?logo=twitter&style=for-the-badge" alt="marvelwebdev" /></a> </p>
 
 <!-- Image GiF -->
 
