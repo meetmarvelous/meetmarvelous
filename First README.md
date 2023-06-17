@@ -12,9 +12,9 @@
 
 </p>
 
-<!-- My Socials -->
+<!-- Follow Twitter -->
 
-<p align="left"> <a href="https://dev.to/meetmarvelous" target="blank"><img src="https://img.shields.io/badge/Follow%20my%20blog-%230A0A0A?style=for-the-badge&logo=dev.to" alt="marvelwebdev" /></a> <a href="https://www.linkedin.com/in/meetmarvelous" target="blank"><img src="https://img.shields.io/badge/My%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin" alt="meetmarvelous" /></a> </p>
+<p align="left"> <a href="https://twitter.com/intent/follow?screen_name=meetmarvelous" target="blank"><img src="https://img.shields.io/twitter/follow/meetmarvelous?logo=twitter&style=for-the-badge" alt="meetmarvelous" /></a> </p>
 
 <!-- Image GiF -->
 
@@ -31,7 +31,7 @@
 - 👋 Hi, I’m Marvelous.
 - 💼 I'm a Web developer.
 - 👨‍💻 All of my projects are available at [https://codepen.io/meetmarvelous](https://codepen.io/meetmarvelous).
-- 📝 I regularly write articles on [https://dev.to/meetmarvelous](https://dev.to/meetmarvelous).
+- 📝 I regularly write articles on [https://medium.com/@meetmarvelous](https://medium.com/@meetmarvelous).
 - 👯 I’m looking to collaborate on web development projects.
 - 😄 Fun fact: I love Music(🎶), Football(⚽), Gaming(🎮), Coding(💻), Travelling(🌍), and Photography(📷).
 - 💬 Talk to me about freelancing opportunities on Web development.
@@ -61,13 +61,13 @@
   <a href="https://www.facebook.com/meetmarvelous"  target="_blank">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://twitter.com/MeetMarvelous" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  <a href="https://dev.to/meetmarvelous" target="_blank">
+  <a href="#" target="_blank">
     <img alt="" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" >
   </a> 
-  <a href="https://marvelbyte.hashnode.dev" target="_blank">
+  <a href="#" target="_blank">
     <img alt="Hashnode" src="https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
   <a href="#" target="_blank">
@@ -155,4 +155,4 @@
 
 Credit: [Marvelous](https://github.com/meetmarvelous/)
 
-Last Edited on: 17/06/2023
+Last Edited on: 18/10/2022
