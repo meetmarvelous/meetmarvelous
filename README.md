@@ -30,6 +30,7 @@
 
 - 👋 Hi, I’m Marvelous.
 - 💼 I'm a Web developer.
+- 🤔 I’m currently open for: a new job opportunity: [LINK TO MY PORTOFOLIO](https://marvelbyte.vercel.app/).
 - 👨‍💻 All of my projects are available at [https://codepen.io/meetmarvelous](https://codepen.io/meetmarvelous).
 - 📝 I regularly write articles on [https://dev.to/meetmarvelous](https://dev.to/meetmarvelous).
 - 👯 I’m looking to collaborate on web development projects.
@@ -37,7 +38,6 @@
 - 💬 Talk to me about freelancing opportunities on Web development.
 - 📫 How to reach me: Catch and follow me from the links [**here**](https://bio.link/meetmarvelous), e-mail : [**meetmarvelous@gmail.com**](mailto:meetmarvelous@gmail.com).
 
-<!-- - 🤔 I’m currently open for: A new job opportunity: [LINK TO MY RESUME](link). -->
 <!-- - 🔭 I’m currently working on [Marvelbyte](https://bio.link/meetmarvelous) -->
 <!-- - 👨‍💻 Hire me for Full Stack Development jobs: Link to my UpWork Full Stack Development Specialization. -->
 
@@ -136,7 +136,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/meetmarvelous/"><img alt="Marvelous' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=meetmarvelous&custom_title=Marvelous'%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/meetmarvelous/"><img alt="Marvelous' Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=meetmarvelous&custom_title=Marvelous'%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 ---
