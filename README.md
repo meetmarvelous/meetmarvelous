@@ -18,7 +18,7 @@
 
 <!-- Image GiF -->
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 <!-- About Me -->
 
@@ -155,4 +155,4 @@
 
 Credit: [Marvelous](https://github.com/meetmarvelous/)
 
-Last Edited on: 11/July/2023
+Last Edited on: 1/August/2023
